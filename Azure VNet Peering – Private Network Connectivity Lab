@@ -1,2 +1,11 @@
 # azure-vnet-peering-lab
  azure-vnet-peering-lab Description Azure VNet peering lab with private VM connectivity testing
+
+
+Technical Skills Demonstrated
+- Azure Virtual Networks and subnetting
+- Private IP addressing
+- Azure Bastion administration
+- VNet peering and Azure routing
+- Network Security Groups (NSGs)
+- ICMP connectivity troubleshooting
